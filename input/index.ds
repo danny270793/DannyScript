@@ -1,0 +1,7 @@
+nothing <- main <- string[]
+    name: string <- 'Th1s 1s @nd string by ª!"·$%&/()=? Danny Vaca'
+    varA: number <- 2
+    varB: number <- 4
+
+    varC: number <- ( a + b ) * 5
+    output <- nothing
