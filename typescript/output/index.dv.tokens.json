@@ -1,0 +1,170 @@
+[
+    {
+        "type": "WORD",
+        "value": "a",
+        "line": 0,
+        "column": 0
+    },
+    {
+        "type": "TYPE_DEFINITION",
+        "value": ":",
+        "line": 0,
+        "column": 1
+    },
+    {
+        "type": "WORD",
+        "value": "number",
+        "line": 0,
+        "column": 3
+    },
+    {
+        "type": "VALUE_ASSIGMENT",
+        "value": "<-",
+        "line": 0,
+        "column": 10
+    },
+    {
+        "type": "NUMBER",
+        "value": "3",
+        "line": 0,
+        "column": 13
+    },
+    {
+        "type": "NEW_LINE",
+        "value": "\n",
+        "column": 14,
+        "line": 0
+    },
+    {
+        "type": "WORD",
+        "value": "b",
+        "line": 1,
+        "column": 0
+    },
+    {
+        "type": "TYPE_DEFINITION",
+        "value": ":",
+        "line": 1,
+        "column": 1
+    },
+    {
+        "type": "WORD",
+        "value": "number",
+        "line": 1,
+        "column": 3
+    },
+    {
+        "type": "VALUE_ASSIGMENT",
+        "value": "<-",
+        "line": 1,
+        "column": 10
+    },
+    {
+        "type": "NUMBER",
+        "value": "4",
+        "line": 1,
+        "column": 13
+    },
+    {
+        "type": "NEW_LINE",
+        "value": "\n",
+        "column": 14,
+        "line": 1
+    },
+    {
+        "type": "NEW_LINE",
+        "value": "\n",
+        "column": 0,
+        "line": 2
+    },
+    {
+        "type": "WORD",
+        "value": "c",
+        "line": 3,
+        "column": 0
+    },
+    {
+        "type": "TYPE_DEFINITION",
+        "value": ":",
+        "line": 3,
+        "column": 1
+    },
+    {
+        "type": "WORD",
+        "value": "number",
+        "line": 3,
+        "column": 3
+    },
+    {
+        "type": "VALUE_ASSIGMENT",
+        "value": "<-",
+        "line": 3,
+        "column": 10
+    },
+    {
+        "type": "WORD",
+        "value": "a",
+        "line": 3,
+        "column": 13
+    },
+    {
+        "type": "ARITHMETIC_OPERATION",
+        "value": "+",
+        "line": 3,
+        "column": 15
+    },
+    {
+        "type": "WORD",
+        "value": "b",
+        "line": 3,
+        "column": 17
+    },
+    {
+        "type": "NEW_LINE",
+        "value": "\n",
+        "column": 18,
+        "line": 3
+    },
+    {
+        "type": "NEW_LINE",
+        "value": "\n",
+        "column": 0,
+        "line": 4
+    },
+    {
+        "type": "WORD",
+        "value": "Terminal",
+        "line": 5,
+        "column": 0
+    },
+    {
+        "type": "POINT",
+        "value": ".",
+        "column": 8,
+        "line": 5
+    },
+    {
+        "type": "WORD",
+        "value": "WriteLine",
+        "line": 5,
+        "column": 9
+    },
+    {
+        "type": "VALUE_ASSIGMENT",
+        "value": "<-",
+        "line": 5,
+        "column": 19
+    },
+    {
+        "type": "WORD",
+        "value": "c",
+        "line": 5,
+        "column": 22
+    },
+    {
+        "type": "NEW_LINE",
+        "value": "\n",
+        "column": 23,
+        "line": 5
+    }
+]
