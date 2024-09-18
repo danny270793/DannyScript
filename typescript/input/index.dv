@@ -1,0 +1,6 @@
+a: number <- 3
+b: number <- 4
+
+c: number <- a + b
+
+Terminal.WriteLine <- c
